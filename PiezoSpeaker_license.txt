@@ -1,4 +1,5 @@
 /*******************************************************
+*    These are the license terms for PiezoSpeaker.cpp & PiezoSpeaker.h 
 
 *    Circuito.io is an automatic generator of schematics and code for off
 *    the shelf hardware combinations.
@@ -41,11 +42,3 @@
 *    ITS LICENSORS AND AFFILIATES FROM, ANY CLAIMS IN CONNECTION WITH ANY OF 
 *    THE ABOVE. 
 ********************************************************/
-
-#ifndef PINS_H
-#define PINS_H
-
-#define SOILMOISTURE_PIN_SIG	A0
-#define PIEZOSPEAKER_PIN_SIG	3
-
-#endif //PINS_H
